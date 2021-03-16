@@ -1,6 +1,6 @@
 # Operationalizing-Individual-Fairness
 Implementation of ["Operationalizing Individual Fairness with Pairwise Fair Representations"](https://arxiv.org/abs/1907.01439v2)\
-[Link to Google Slides presentation](https://docs.google.com/presentation/d/1QSwfH2c0MTJWop7g0ccYhEow9cjaF5wQHw5lEaTU2f8/edit?usp=sharing)\
+[Link to Google Slides presentation](https://docs.google.com/presentation/d/1QSwfH2c0MTJWop7g0ccYhEow9cjaF5wQHw5lEaTU2f8/edit?usp=sharing)
 
 
 # Setup
